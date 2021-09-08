@@ -1,0 +1,90 @@
+/* Universal Styles */
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    line-height: 20px;
+  }
+  
+  .text-primary {
+    color: var(--primary-color);
+  }
+  
+  .text-third {
+    color: var(--third-color);
+  }
+  
+  .text-underline {
+    border-bottom: 4px solid #333;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    padding: 0.25rem 0.75rem;
+  }
+  
+  h1 {
+    font-family: "Times New Roman", sans-serif;
+  }
+  
+  h2 {
+    font-family: "Lato", "Times New Roman", sans-serif;
+  }
+  
+  h3 {
+    font-family: sans-serif;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #f8f8ff;
+  }
+ 
+  
+  p {
+    padding: 0rem 0.75rem;
+  }
+  
+
+img{ 
+  width: auto;
+  height: auto;
+  position: absolute;
+  z-index: 1;
+}
+ 
+  /* Button Styles */
+  
+
+  .button-1 {
+    border: none;
+    background-color:cornflowerblue;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    display: inline-block;
+    color: cornsilk;
+
+  }
+  .button-2 {
+    border: none;
+    background-color:cornflowerblue;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    display: inline-block;
+    color: cornsilk;
+
+  }
+
+  .button-3 {
+    border: none;
+    background-color:cornflowerblue;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    display: inline-block;
+    color: cornsilk;
+
+  }
