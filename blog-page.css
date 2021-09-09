@@ -61,4 +61,17 @@
   h3.text-date {
     font-size: 0.8rem;
   }
+
+figcaption{
+    color: grey;
+    position:absolute;
+    bottom: 0;
+    left: 10;
+    text-align: right;
+    padding: 80px;
+    font-style: oblique;
+    font-size: smaller;
+    mix-blend-mode: soft-light;
+  }
+
   
